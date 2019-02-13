@@ -1,0 +1,23 @@
+{
+	"name": "Private TO-DO",
+	"version": "1.0",
+	"release_date": "2019-02-13",
+	"license": "MIT",
+	"price_usd": "0",
+	"download_url_v2": "https://github.com/v0rja/bludit-plugin-private-to-do-list/archive/master.zip",
+	"demo_url": "",
+	"information_url": "https://github.com/v0rja/bludit-plugin-private-to-do-list/",
+	"description": "Add a TO-DO list to any specified URI page.",
+	"features": {
+	},
+	"description_de": "",
+	"features_de": {
+	},
+	"description_es": "Añade una lista de cosas por hacer a cualquier página mediante URI",
+	"features_es": {
+	},
+	"description_ru": "",
+	"features_ru": {
+	},
+	"author_username": "v0rja"
+}
